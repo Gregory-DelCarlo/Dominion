@@ -1,0 +1,3 @@
+class AllCards
+    
+end
